@@ -46,7 +46,7 @@ console.log('Fifth Word: ' + fifthWord3)
 console.log()
 
 
-// Breaking Sentence (yet Again) and Count Each Length
+// Soal KeEmpat => Breaking Sentence (yet Again) and Count Each Length
 var word4 = 'wow JavaScript is so cool'
 var FirstWord4 = word4.substring(0, 3)
 var secondWord4 = word4.substring(4, 14)
